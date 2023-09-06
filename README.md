@@ -9,3 +9,6 @@ Link to the original research paper on <a href='https://jmlr.org/papers/volume15
 
 ReLU variants:-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/78c3ba42-980e-416c-b6cc-2067d135ffd5)
+
+Convex & Non-convex Optimization problem(SGD with Momentum):
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/04667cde-f1dd-42ae-aecc-6b90f2b6928d)
