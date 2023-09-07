@@ -12,3 +12,6 @@ ReLU variants:-
 
 Convex & Non-convex Optimization problem(SGD with Momentum):
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/04667cde-f1dd-42ae-aecc-6b90f2b6928d)
+
+SGD with Momentum (Optimization Technique):-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/941e7ac7-b49e-48db-a27b-1ba297ed03fb)
