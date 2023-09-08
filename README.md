@@ -15,3 +15,17 @@ Convex & Non-convex Optimization problem(SGD with Momentum):
 
 SGD with Momentum (Optimization Technique):-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/941e7ac7-b49e-48db-a27b-1ba297ed03fb)
+
+Sparse(elongated bowl problem) Vs Non-sparse Data Contour:-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/8993e2d6-e76b-402c-9dc3-5593bb0f6921)
+
+
+Batch Gradient Descent Vs Momentum Vs Adagrad [Optimizers]
+Batch GD:-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/3a9f19ca-9984-42be-a73f-12234b791ed4)
+
+Momentum:-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/d50b6f83-31d9-4e2d-bdb5-c2a3206514ee)
+
+Adagrad:-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/6fe2c068-e33f-459e-9981-d237762f0f4b)
