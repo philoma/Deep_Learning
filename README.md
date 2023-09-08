@@ -33,8 +33,8 @@ Adagrad:-
 RMSProp:-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/2c2ce57e-3195-4862-a068-6fb0b3f5025b)
 
-Adam:-
-shows momentum & learning rate decay behaviour both :) 
+Adam:- <br>
+shows momentum & learning rate decay behavior both :) 
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/6c878a6a-8936-474d-b03b-2089fb1e4818)
 
 
