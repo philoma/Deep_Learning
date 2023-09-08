@@ -20,7 +20,7 @@ Sparse(elongated bowl problem) Vs Non-sparse Data Contour:-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/8993e2d6-e76b-402c-9dc3-5593bb0f6921)
 
 
-Batch Gradient Descent Vs Momentum Vs Adagrad [Optimizers]
+Batch Gradient Descent Vs Momentum Vs Adagrad Vs RMSProp [Optimizers]
 Batch GD:-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/3a9f19ca-9984-42be-a73f-12234b791ed4)
 
@@ -29,3 +29,7 @@ Momentum:-
 
 Adagrad:-
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/6fe2c068-e33f-459e-9981-d237762f0f4b)
+
+RMSProp:-
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/2c2ce57e-3195-4862-a068-6fb0b3f5025b)
+
