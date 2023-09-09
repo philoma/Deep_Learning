@@ -41,3 +41,5 @@ shows momentum & learning rate decay behavior both :)
 Strided(=2) Convolution with Paddings:- 
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/0/04/Convolution_arithmetic_-_Padding_strides.gif)
+
+<a href='https://deeplizard.com/resource/pavq7noze3'> Max Pooling Example</a>
