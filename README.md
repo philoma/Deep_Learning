@@ -38,3 +38,6 @@ shows momentum & learning rate decay behavior both :)
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/6c878a6a-8936-474d-b03b-2089fb1e4818)
 
 
+Strided Convolution with Paddings:- 
+
+![image](https://upload.wikimedia.org/wikipedia/commons/0/04/Convolution_arithmetic_-_Padding_strides.gif)
