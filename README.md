@@ -48,7 +48,9 @@ Strided(2,2) Convolution with Paddings:-
 <br>
 <h2><b>VGG-16 | CNN model</b></h2>
 ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual computer vision competition. Each year, teams compete on two tasks. The first is to detect objects within an image coming from 200 classes, which is called object localization. The second is to classify images, each labeled with one of 1000 categories, which is called image classification. VGG 16 was proposed by Karen Simonyan and Andrew Zisserman of the Visual Geometry Group Lab of Oxford University in 2014 in the paper “VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION”. This model won 1st  and 2nd place in the above categories in the 2014 ILSVRC challenge.
+<br> <br>
 <br>
+
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg)
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20200219152327/conv-layers-vgg16.jpg)
