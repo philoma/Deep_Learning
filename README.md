@@ -62,4 +62,4 @@ ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual computer
 2. Next word/sentence suggestion in Gmail
 3. <a href='https://milhidaka.github.io/chainer-image-caption'> Image caption generation </a> (may become helpful for blinds by applying text 2 speech later
 4. <a href='https://translate.google.co.in'> Google Translate </a> (Language detection -> Machine translation)
-5. < a href='https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo'> Question And Answer Demo Using BERT NLP - English </a>
+5. <a href='https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo'> Question And Answer Demo Using BERT NLP - English </a>
