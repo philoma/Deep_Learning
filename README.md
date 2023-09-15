@@ -54,3 +54,12 @@ ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual computer
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg)
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20200219152327/conv-layers-vgg16.jpg)
+
+
+# Best real-time examples of RNN
+1. <a href='https://text2data.com/Demo'> Sentiment Analysis</a>
+
+2. Next word/sentence suggestion in Gmail
+3. <a href='https://milhidaka.github.io/chainer-image-caption'> Image caption generation </a> (may become helpful for blinds by applying text 2 speech later
+4. <a href='https://translate.google.co.in'> Google Translate </a> (Language detection -> Machine translation)
+5. < a href='https://www.pragnakalp.com/demos/BERT-NLP-QnA-Demo'> Question And Answer Demo Using BERT NLP - English </a>
