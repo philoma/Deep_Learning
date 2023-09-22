@@ -66,3 +66,7 @@ ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual computer
 
 
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/02bd04f0-d581-4160-a2ef-22166efc63d2)
+
+# RNN Vs LSTM Architecture
+![image](https://github.com/philoma/Deep_Learning/assets/87674698/bf3cd77e-d4b2-478f-b1c3-0f0a291a0ae5)
+
