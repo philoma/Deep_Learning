@@ -76,3 +76,5 @@ ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is an annual computer
 
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/39bb7ef2-cde0-47e5-8dfd-94f1f4864583)
 
+# LSTM Cell
+![image](https://miro.medium.com/v2/resize:fit:786/0*O_TqfQ4537oM4MH0.gif)
