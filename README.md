@@ -4,24 +4,30 @@
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/049183ca-5080-4638-b4ca-f5ae631cc21f)
 
 <h2>Dropout in Neural Network:-</h2>
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/e36e1b0b-35b9-4327-8d6f-ffc0f98b0005)
 Link to the original research paper on <a href='https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf'> Dropout</a>
 
 <h2>ReLU variants:-</h2>
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/78c3ba42-980e-416c-b6cc-2067d135ffd5)
 
 <h2>Convex & Non-convex Optimization problem(SGD with Momentum):</h2>
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/04667cde-f1dd-42ae-aecc-6b90f2b6928d)
 
 <h2>SGD with Momentum (Optimization Technique):-</h2>
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/941e7ac7-b49e-48db-a27b-1ba297ed03fb)
 
 <h2>Sparse(elongated bowl problem) Vs Non-sparse Data Contour:-</h2>
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/8993e2d6-e76b-402c-9dc3-5593bb0f6921)
 
 
 <h2>Batch Gradient Descent Vs Momentum Vs Adagrad Vs RMSProp Vs Adam [Optimizers]</h2>
 Batch GD:-
+
 ![image](https://github.com/philoma/Deep_Learning/assets/87674698/3a9f19ca-9984-42be-a73f-12234b791ed4)
 
 Momentum:-
